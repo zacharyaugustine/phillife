@@ -1,2 +1,1 @@
-# Ancient-Antidotes website
-http://awesomefresh.github.io/ancient-antidotes
+http://awesomefresh.github.io/Ancient-Antidotes/
