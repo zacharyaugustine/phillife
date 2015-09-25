@@ -1,4 +1,4 @@
-# Ancient Antidotes
-[Website](http://zacharyaugustine.github.io/aa/)
+# Philosophy for Any Life
+[Website](http://zacharyaugustine.github.io/phillife/)
 <br>
-[Editor](https://github.com/zacharyaugustine/aa/edit/gh-pages/index.html)
+[Editor](https://github.com/zacharyaugustine/phillife/edit/gh-pages/index.html)
