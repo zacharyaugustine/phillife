@@ -52,6 +52,18 @@ a {
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
+
+.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+
 .snippet {
   background: rgba(210,210,210,0.5);
   padding: 1rem 1rem; 
