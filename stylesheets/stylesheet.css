@@ -53,13 +53,6 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
-.img {
-    height: auto;
-    width: auto;
-    display: block;
-    background-image: url(nowinprint_sale.jpg);
-}
-
 .snippet {
   background: rgba(210,210,210,0.5);
   padding: 1rem 1rem; 
