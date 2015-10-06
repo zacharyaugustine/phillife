@@ -56,8 +56,8 @@ a {
 .img {
     height: auto;
     width: auto;
+    background-image: url(nowinprint_sale.jpg); 
 }
-
 
 .snippet {
   background: rgba(210,210,210,0.5);
