@@ -81,13 +81,14 @@ a {
     background-image: url('road672x464.jpg'); 
     padding: 2rem 1rem; } }
 
-/* .header-container {
+.header-container {
   background-color: rgba(0,0,0,0.5);
   padding: 10px 0px;
-  width: 55rem; 
+  width: 552px;
+  height: 167px;
   margin: 0 auto;
 }
-*/
+
 
 @media screen and (min-width: 64em) {
   .header-container {
