@@ -1,4 +1,3 @@
 # Philosophy for Any Life
-[Website](http://zacharyaugustine.github.io/phillife/)
-<br>
-[Editor](https://github.com/zacharyaugustine/phillife/edit/gh-pages/index.html)
+website files in `gh-pages` branch
+[Live Website](http://philosophyforanylife.com)
