@@ -1,3 +1,4 @@
 # Philosophy for Any Life
-website files in `gh-pages` branch
-[Live Website](http://philosophyforanylife.com)
+website files on `gh-pages` branch
+<br>
+Website live at [`philosophyforanylife.com`](http://philosophyforanylife.com)
