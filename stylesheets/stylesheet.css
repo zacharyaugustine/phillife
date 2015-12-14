@@ -15,6 +15,12 @@ a {
   a:hover {
     text-decoration: underline; }
 
+h3 {
+  color: #111;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -69,17 +75,17 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    background-image: url('1200x600.jpg'); 
+    background-image: url('1200x600.jpg');
     padding: 5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    background-image: url('road1024x620.jpg'); 
+    background-image: url('road1024x620.jpg');
     padding: 3rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    background-image: url('road672x464.jpg'); 
+    background-image: url('road672x464.jpg');
     padding: 2rem 1rem; } }
 
 .header-container {
@@ -92,22 +98,22 @@ a {
 
 @media screen and (min-width: 64em) {
   .header-container {
-    width: 55rem; 
+    width: 55rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .header-container {
-    width: 35rem; 
+    width: 35rem;
   }
 }
 @media screen and (max-width: 42em) {
   .header-container {
-    width: 25rem; 
+    width: 25rem;
   }
 }
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; 
+  margin-bottom: 0.1rem;
 }
 
 @media screen and (min-width: 64em) {
@@ -144,11 +150,11 @@ a {
   margin-top: 0; }
 .main-content img {
   max-width: 100%; }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+/*.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #159957; }*/
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
